@@ -153,3 +153,8 @@ Started GET "/" for 24.190.63.153 at 2019-10-04 20:42:10 +0000
   [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
 Processing by Rails::WelcomeController#index as HTML
   Parameters: {"internal"=>true}
+  Rendering /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/rvm/gems/ruby-2.6.1/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (5.5ms)
+Completed 200 OK in 24ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
